@@ -22,7 +22,7 @@ export const Nav00DataSource = {
         name: 'item1',
         a: {
           children: 'Github',
-          href: 'https://github.com/hyperf-cloud/hyperf',
+          href: 'https://github.com/hyperf/hyperf',
           className: 'jwbwf54e8hn-editor_css',
         },
       },
